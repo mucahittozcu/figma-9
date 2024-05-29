@@ -10,7 +10,7 @@ const App = () => {
     <div className="flex items-center  h-screen bg-[#00523F] relative overflow-hidden">
 
           <img className="absolute bottom-[-10%] right-[-0%] w-[50%] max-w-[1100px] h-auto" src={`/Ellipse 3.png`} alt="Ellipse" />
-          <img className="absolute top-20 right-[15%]  w-[60%] max-w-[600px] h-auto" src={`/undraw_jogging_re_k28i 1.png`} alt="Ellipse" />
+          <img className="absolute top-24 right-[15%]  w-[80%] max-w-[700px] h-auto" src={`/undraw_jogging_re_k28i 1.png`} alt="Ellipse" />
 
    <div className="absolute top-0 left-0 w-full h-full flex items-center ">
         <div className=" shadow-white shadow-md p-8 md:p-16 lg:p-28 ml-52">
